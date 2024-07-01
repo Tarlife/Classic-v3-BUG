@@ -998,7 +998,7 @@ let msg = generateWAMessageFromContent(m.key.remoteJid, {
 		      },
 		      {
                        "name": "cta_url",
-                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\",\"merchant_url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\"}"
+                        "buttonParamsJson": "{\"display_text\":\"𝐎𝐰𝐧𝐞𝐫👤 \",\"url\":\"https://wa.me/+263711348801?text=Hello+King+Tarlife\",\"merchant_url\":\"https://wa.me/+254742491666?text=Hello+King+Sam\"}"
 		      },
 		      {
                         "name": "cta_url",
